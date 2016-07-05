@@ -1,6 +1,6 @@
 <?php
 
-require_once("class/class_login.php");//for login
+require_once("class/class_login.php");//for login "este texto esta mas grande ahora"
 
 if(!isset($_SESSION["nick"])){//validateSession
     
